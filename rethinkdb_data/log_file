@@ -1,0 +1,20 @@
+2018-11-18T22:55:11.282928000 0.059286s notice: Recursively removing directory /Users/juciano/Documents/Projetos/node/api-typescript/rethinkdb_data/tmp
+2018-11-18T22:55:11.285113000 0.061472s notice: Initializing directory /Users/juciano/Documents/Projetos/node/api-typescript/rethinkdb_data
+2018-11-18T22:55:11.285913000 0.062267s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/juciano/Documents/Projetos/node/api-typescript/rethinkdb_data' did not already exist or is empty.)
+2018-11-18T22:55:11.286744000 0.063099s notice: Running rethinkdb 2.3.6 (CLANG 10.0.0 (clang-1000.10.43.1))...
+2018-11-18T22:55:11.299588000 0.075943s notice: Running on Darwin 18.0.0 x86_64
+2018-11-18T22:55:11.299665000 0.076018s notice: Loading data from directory /Users/juciano/Documents/Projetos/node/api-typescript/rethinkdb_data
+2018-11-18T22:55:11.448708000 0.225061s info: Automatically using cache size of 100 MB
+2018-11-18T22:55:11.448733000 0.225086s warn: Cache size does not leave much memory for server and query overhead (available memory: 633 MB).
+2018-11-18T22:55:11.448806000 0.225159s warn: Cache size is very low and may impact performance.
+2018-11-18T22:55:11.450996000 0.227349s notice: Listening for intracluster connections on port 29015
+2018-11-18T22:55:11.453089000 0.229442s notice: Listening for client driver connections on port 28015
+2018-11-18T22:55:11.453244000 0.229596s notice: Listening for administrative HTTP connections on port 8080
+2018-11-18T22:55:11.453247000 0.229600s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-11-18T22:55:11.453257000 0.229610s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-11-18T22:55:11.453260000 0.229612s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-11-18T22:55:11.453267000 0.229619s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-11-18T22:55:11.453274000 0.229627s notice: Server ready, "Pro_de_Juciano_7uh" f661a836-fdbc-40f5-bbb8-21ca0f3dc055
+2018-11-18T23:26:19.967014000 1868.730397s info: Table de568162-5cbb-403b-8275-c38c963eafe9: Starting a new Raft election for term 1.
+2018-11-18T23:26:19.968905000 1868.732288s info: Table de568162-5cbb-403b-8275-c38c963eafe9: Added replica on this server.
+2018-11-18T23:26:19.991332000 1868.754715s info: Table de568162-5cbb-403b-8275-c38c963eafe9: This server is Raft leader for term 1. Latest log index is 0.
